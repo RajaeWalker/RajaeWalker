@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rajae! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/rajae-walker-a17a302aa/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Rajae! <br/> <a href="https://www.linkedin.com/in/rajae-walker-a17a302aa/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
